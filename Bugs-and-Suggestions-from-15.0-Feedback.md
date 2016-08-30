@@ -11,4 +11,4 @@
 ### Suggestions
 
  - Disabled Wrench under https://apps.facebook.com/*, which includes games.
- - Suggestion 2
+ - Add the following condition for anonymizer: *[data-hovercard*="extragetparams"]
