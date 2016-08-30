@@ -2,5 +2,10 @@
 
 ### Bugs
 
+ - Bug 1
+ - Bug 2
+
 ### Suggestions
 
+ - Suggestion 1
+ - Suggestion 2
