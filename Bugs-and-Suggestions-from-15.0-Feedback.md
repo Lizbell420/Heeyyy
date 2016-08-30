@@ -10,5 +10,5 @@
 
 ### Suggestions
 
- - Suggestion 1
+ - Disabled Wrench under https://apps.facebook.com/*, which includes games.
  - Suggestion 2
