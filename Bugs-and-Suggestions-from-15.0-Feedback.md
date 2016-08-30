@@ -3,7 +3,7 @@
 ### Bugs
 
  - [x] Politics filter should be updated to the following in order to match on election and not selection: |(\b)election|
- - [ ] Bug 2
+ - [ ] When making a filter subscription local, clear the ID so it doesn't show "subscription" in the list
 
 ### Suggestions
 
