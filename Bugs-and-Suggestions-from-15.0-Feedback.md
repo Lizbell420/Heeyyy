@@ -3,7 +3,9 @@
 ### Bugs
 
  - Politics filter should be updated to the following in order to match on election and not selection
+
 **trump|pence|hillary|bernie|libertarian|gary johnson|jill stein|green party|(\b)election|republican|democrat|politic**
+
  - Bug 2
 
 ### Suggestions
