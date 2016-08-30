@@ -9,3 +9,5 @@
 
  - [ ] Disabled Wrench under https://apps.facebook.com/*, which includes games.
  - [ ] Add the following condition for anonymizer: *[data-hovercard*="extragetparams"]
+ - [ ] The Display Tweak "Force Chat Popup To Default Colors" should also include: ._1nc6 ._d97 {background-color:#4080ff !important;}
+
