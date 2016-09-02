@@ -17,9 +17,9 @@
  - [ ] Wrench choice to disable SFx
  - [ ] Post button
  - [ ] Enter key for new line
- - [ ] disable lightbox
- - [ ] option to change font size
- - [ ] quick links (pages, groups)
- - [ ] disable user hovercards
+ - [ ] Option to disable lightbox
+ - [ ] Option to change font size
+ - [ ] Quick links (pages, groups)
+ - [ ] Option to disable user hovercards
  - [ ] PAIs: option to adjust size/show all the time
- - [ ] lock r. column tweak
+ - [ ] Lock r. column tweak
