@@ -23,3 +23,4 @@
  - [ ] Option to disable user hovercards
  - [ ] PAIs: option to adjust size/show all the time
  - [ ] Lock r. column tweak
+ - [ ] Performance problems in Chrome (https://www.facebook.com/groups/SocialFixerUserSupport/permalink/1076649652403915/)
