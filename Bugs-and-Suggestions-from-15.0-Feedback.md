@@ -11,5 +11,5 @@
  - [ ] Add the following condition for anonymizer: *[data-hovercard*="extragetparams"]
  - [ ] The Display Tweak "Force Chat Popup To Default Colors" should also include: ._1nc6 ._d97 {background-color:#4080ff !important;}
  - [ ] Add an "X" to hide the message that filters have been disabled, which will toggle the setting in Advanced
-
+ - [ ] "Anonymize Screen" does not anonymize friends names in chat toolbar at the right edge of the screen
 
