@@ -63,12 +63,12 @@ TECHNICAL
  - [ ] Performance: Only call extract() on posts for data parts that actually have filters defined for them
  - [ ] Internal: Connect Facebook's Arbiter to X.publish() to listen to all their messages and take action
  - [ ] Switch to Vue 2.0 with pre-compiled templates
+ - [ ] Update config*.json on the server to alert users of old versions about v15
 
 FB WATCH
 ==========
  - [ ] Add more logging/debugging info
- - [ ] Add a login button if the popup doesn't get triggered automatically
+ - [x] Add a login button if the popup doesn't get triggered automatically
  - [ ] Redirect to a "clean" url after adding an item
  - [ ] Change the interval automatically - If new activity is found, check back more frequently
  - [ ] Update the Graph API version being used
- - [ ] Update config*.json on the server to alert users of old versions about v15
