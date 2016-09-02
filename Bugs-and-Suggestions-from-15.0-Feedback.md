@@ -12,4 +12,4 @@
  - [ ] The Display Tweak "Force Chat Popup To Default Colors" should also include: ._1nc6 ._d97 {background-color:#4080ff !important;}
  - [ ] Add an "X" to hide the message that filters have been disabled, which will toggle the setting in Advanced
  - [ ] "Anonymize Screen" does not anonymize friends names in chat toolbar at the right edge of the screen
-
+ - [ ] Define a custom color for a Filter panel due to users utilizing custom themes and not being able to see the Filter Panel
