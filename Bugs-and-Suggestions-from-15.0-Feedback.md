@@ -25,3 +25,6 @@
  - [ ] Lock r. column tweak
  - [ ] Performance problems in Chrome (https://www.facebook.com/groups/SocialFixerUserSupport/permalink/1076649652403915/)
  - [ ] Sfx Watch-specific: Explained here: https://www.facebook.com/groups/551488248212943/permalink/1339012749460485/?comment_id=1339118706116556&comment_tracking=%7B%22tn%22%3A%22R2%22%7D
+ - [ ] R. click CP tab to make it open in a new browser tab
+ - [ ] Shortcut to go to directly to Edit filter screen from post or CP
+ - [ ] Shortcut to go to the Tweaks screen
