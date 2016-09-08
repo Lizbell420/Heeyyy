@@ -29,3 +29,4 @@
  - [ ] R. click CP tab to make it open in a new browser tab
  - [ ] Shortcut to go to directly to Edit filter screen from post or CP
  - [ ] Shortcut to go to the Tweaks screen
+ - [ ] KB shortcut for "mark as read"
