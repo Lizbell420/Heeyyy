@@ -26,8 +26,8 @@
  - [ ] Lock r. column tweak
  - [ ] Performance problems in Chrome (https://www.facebook.com/groups/SocialFixerUserSupport/permalink/1076649652403915/)
  - [ ] Sfx Watch-specific:
-* Explained here: https://www.facebook.com/groups/551488248212943/permalink/1339012749460485/?comment_id=1339118706116556&comment_tracking=%7B%22tn%22%3A%22R2%22%7D
-* Add an additional column called "Age" or something along those lines. Premise is that with time discussions die down, so I would like to delete posts from Watch after let's say 20 days. Instead of going to each individual post to find out how old it is, I would to have this info in the grid.
++ Explained here: https://www.facebook.com/groups/551488248212943/permalink/1339012749460485/?comment_id=1339118706116556&comment_tracking=%7B%22tn%22%3A%22R2%22%7D
++ Add an additional column called "Age" or something along those lines. Premise is that with time discussions die down, so I would like to delete posts from Watch after let's say 20 days. Instead of going to each individual post to find out how old it is, I would to have this info in the grid.
  - [ ] R. click CP tab to make it open in a new browser tab
  - [ ] Shortcut to go to directly to Edit filter screen from post or CP
  - [ ] Shortcut to go to the Tweaks screen
