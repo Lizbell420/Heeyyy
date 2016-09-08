@@ -30,3 +30,4 @@
  - [ ] Shortcut to go to directly to Edit filter screen from post or CP
  - [ ] Shortcut to go to the Tweaks screen
  - [ ] KB shortcut for "mark as read"
+ - [ ] Sfx Watch-specific: Add an additional column called "Age" or something along those lines. Premise is that with time discussions die down, so I would like to delete posts from Watch after let's say 20 days. Instead of going to each individual post to find out how old it is, I would to have this info in the grid.
