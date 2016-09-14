@@ -1,0 +1,1 @@
+TODO: Documentation on user preferences - how they are stored, fixing common problems, import/export, etc
