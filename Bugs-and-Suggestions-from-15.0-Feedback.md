@@ -36,3 +36,4 @@
  - [ ] Shortcut to go to directly to Edit filter screen from post or CP
  - [ ] Shortcut to go to the Tweaks screen
  - [ ] KB shortcut for "mark as read"
+ - [ ] When MAR read for a tab it goes to the next tab that has posts. When clicking Undo, it does correctly Undo "somewhere". I would like to request ability to jump back to the tab where posts were Undo. It might not be necessarily the one prior to the one you're currently on.
