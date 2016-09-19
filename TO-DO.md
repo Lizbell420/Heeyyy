@@ -20,7 +20,6 @@ HIGH
  - [ ] Tab list gets created in Pages/Groups even if no filters are moving posts to tabs
  - [ ] Some Chrome users get storage errors
  - [ ] When users have a gray icon next to their name (when not in a group, for example) the code for the icon is included in the tab name - https://www.facebook.com/groups/SocialFixerUserSupport/permalink/1074831415919072/
- - [ ] Add an "X" to hide the message that filters have been disabled, which will toggle the setting in Advanced
 
 MEDIUM
 =========
@@ -28,14 +27,13 @@ MEDIUM
  - [ ] Make the Options searchable
  - [ ] Add an option to make the wrench/control panel not draggable
  - [ ] Add an option to restore the position of the control panel
- - [ ] Add the following condition for anonymizer: [data-hovercard="extragetparams"]
  - [ ] The Display Tweak "Force Chat Popup To Default Colors" should also include: ._1nc6 ._d97 {background-color:#4080ff !important;}
 
 LOW
 =========
  - [ ] Post action icons don't appear on posts that get added under the cursor. The mouse needs to be moved out of the post and then back in for them to appear.
  - [ ] Add a separate option to show the filter icon / wrench icon, separate from the "Mark As Read" functionality
- - [ ] Add an option to pre-populate the filter tab list based on all defined filters
+ - [x] Add an option to pre-populate the filter tab list based on all defined filters
  - [ ] The control panel is partially hidden by the white strip at the top of Pages
  - [ ] Add content to the "About" tab
  - [ ] Allow users to define which groups/pages not to filter even if it's turned on
@@ -50,12 +48,12 @@ FUTURE IDEAS / FEATURES
   
 TECHNICAL
 =========
- - [ ] Trigger resize a couple times after clicking a tab, to trigger Facebook to show posts that were hidden
+ - [x] Trigger resize a couple times after clicking a tab, to trigger Facebook to show posts that were hidden
  - [ ] Add functionality to track daily user count and which filters/tweaks are most popular
  - [ ] If no posts are ever hidden/tabbed from filters or being marked read, don't throttle the post loading, because it will never run forever
  - [ ] When navigating, all posts marked as read get shown before page transition - only when clicking an item in notifications?
  - [ ] Add a debugger/page inspector option to allow users to report HTML structure
- - [ ] Can I force news feed containers to never hide and height:auto or will that break Facebook's feed hiding algorithm?
+ - [x] Can I force news feed containers to never hide and height:auto or will that break Facebook's feed hiding algorithm?
  - [ ] Add padding to the browser/sfx version box in the Support Tab
  - [ ] Minify Zepto
  - [ ] Figure out why injecting X into the page context breaks buttons on the "settings" page
