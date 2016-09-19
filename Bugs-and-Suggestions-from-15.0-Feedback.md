@@ -3,25 +3,17 @@
 ### Bugs
 
  - [x] Politics filter should be updated to the following in order to match on election and not selection: |(\b)election|
- - [ ] When making a filter subscription local, clear the ID so it doesn't show "subscription" in the list
+ - [x] When making a filter subscription local, clear the ID so it doesn't show "subscription" in the list
  - [ ] When marking post as read that came from Notification doesn't hide it. Here's an example: https://www.facebook.com/groups/SocialFixerUserSupport/?multi_permalinks=1079562782112602&notif_t=group_highlights&notif_id=1473128921522544
  - [ ] When hiding left column, then navigating to FB settings, it is also affected and shouldn't be
  - [ ] Comment navigator "expand all" doesn't work consistently on all posts. ex: https://www.facebook.com/Stonekettle/posts/1097609370274465
 
 ### Suggestions
 
- - [ ] Disable Wrench under https://apps.facebook.com/*, which includes games.
- - [ ] Add the following condition for anonymizer: *[data-hovercard*="extragetparams"]
- - [ ] The Display Tweak "Force Chat Popup To Default Colors" should also include: ._1nc6 ._d97 {background-color:#4080ff !important;}
- - [ ] Add an "X" to hide the message that filters have been disabled, which will toggle the setting in Advanced
  - [ ] "Anonymize Screen" does not anonymize friends names in chat toolbar at the right edge of the screen
  - [ ] "Anonymize Screen" does not anonymize friends names in Birthdays panel at top of right column
  - [ ] Define a custom color for a Filter panel due to users utilizing custom themes and not being able to see the Filter Panel
    Disable Wrench under https://www.facebook.com/saved
- - [ ] Wrench choice to disable SFx
- - [ ] Post button
- - [ ] Enter key for new line
- - [ ] Option to disable lightbox
  - [ ] Option to change font size
  - [ ] Quick links (pages, groups)
  - [ ] Option to disable user hovercards
