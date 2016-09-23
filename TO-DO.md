@@ -16,9 +16,9 @@ FILTERING
 
 HIGH
 =========
- - [ ] Disable Wrench under https://apps.facebook.com/*, which includes games.
- - [ ] Tab list gets created in Pages/Groups even if no filters are moving posts to tabs
- - [ ] Some Chrome users get storage errors
+ - [x] Disable Wrench under https://apps.facebook.com/*, which includes games.
+ - [x] Tab list gets created in Pages/Groups even if no filters are moving posts to tabs
+ - [x] Some Chrome users get storage errors
  - [ ] When users have a gray icon next to their name (when not in a group, for example) the code for the icon is included in the tab name - https://www.facebook.com/groups/SocialFixerUserSupport/permalink/1074831415919072/
 
 MEDIUM
@@ -26,7 +26,7 @@ MEDIUM
  - [ ] PAI's should be shown on single posts
  - [ ] Make the Options searchable
  - [ ] Add an option to make the wrench/control panel not draggable
- - [ ] Add an option to restore the position of the control panel
+ - [x] Add an option to restore the position of the control panel
  - [ ] The Display Tweak "Force Chat Popup To Default Colors" should also include: ._1nc6 ._d97 {background-color:#4080ff !important;}
 
 LOW
@@ -54,7 +54,7 @@ TECHNICAL
  - [ ] When navigating, all posts marked as read get shown before page transition - only when clicking an item in notifications?
  - [ ] Add a debugger/page inspector option to allow users to report HTML structure
  - [x] Can I force news feed containers to never hide and height:auto or will that break Facebook's feed hiding algorithm?
- - [ ] Add padding to the browser/sfx version box in the Support Tab
+ - [x] Add padding to the browser/sfx version box in the Support Tab
  - [ ] Minify Zepto
  - [ ] Figure out why injecting X into the page context breaks buttons on the "settings" page
  - [ ] Move "anonymizer" config to the server as a JSON configuration
