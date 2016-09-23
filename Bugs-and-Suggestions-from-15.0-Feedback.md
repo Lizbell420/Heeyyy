@@ -5,7 +5,7 @@
  - [x] Politics filter should be updated to the following in order to match on election and not selection: |(\b)election|
  - [x] When making a filter subscription local, clear the ID so it doesn't show "subscription" in the list
  - [ ] When marking post as read that came from Notification doesn't hide it. Here's an example: https://www.facebook.com/groups/SocialFixerUserSupport/?multi_permalinks=1079562782112602&notif_t=group_highlights&notif_id=1473128921522544
- - [ ] When hiding left column, then navigating to FB settings, it is also affected and shouldn't be
+ - [x] When hiding left column, then navigating to FB settings, it is also affected and shouldn't be
  - [ ] Comment navigator "expand all" doesn't work consistently on all posts. ex: https://www.facebook.com/Stonekettle/posts/1097609370274465
 
 ### Suggestions
