@@ -60,7 +60,6 @@ FUTURE IDEAS / FEATURES
   
 TECHNICAL
 =========
- - [x] Trigger resize a couple times after clicking a tab, to trigger Facebook to show posts that were hidden
  - [ ] Add functionality to track daily user count and which filters/tweaks are most popular
  - [ ] If no posts are ever hidden/tabbed from filters or being marked read, don't throttle the post loading, because it will never run forever
  - [ ] When navigating, all posts marked as read get shown before page transition - only when clicking an item in notifications?
