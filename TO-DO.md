@@ -24,6 +24,7 @@ MEDIUM
  - [ ] Make the Options searchable
  - [ ] Add an option to make the wrench/control panel not draggable
  - [ ] The Display Tweak "Force Chat Popup To Default Colors" should also include: ._1nc6 ._d97 {background-color:#4080ff !important;}
+ - [ ] Comment navigator "expand all" doesn't work consistently on all posts. ex: https://www.facebook.com/Stonekettle/posts/1097609370274465
 
 LOW
 =========
@@ -33,6 +34,22 @@ LOW
  - [ ] Add content to the "About" tab
  - [ ] Allow users to define which groups/pages not to filter even if it's turned on
  - [ ] Show "Advanced" code view for Tweaks
+
+UNPRIORITIZED
+=============
+ - [ ] "Anonymize Screen" does not anonymize friends names in chat toolbar at the right edge of the screen
+ - [ ] "Anonymize Screen" does not anonymize friends names in Birthdays panel at top of right column
+ - [ ] Option to change font size
+ - [ ] Quick links (pages, groups)
+ - [ ] Option to disable user hovercards
+ - [ ] PAIs: option to adjust size/show all the time
+ - [ ] Lock r. column tweak
+ - [ ] R. click CP tab to make it open in a new browser tab
+ - [ ] Shortcut to go to directly to Edit filter screen from post or CP
+ - [ ] Shortcut to go to the Tweaks screen
+ - [ ] KB shortcut for "mark as read"
+ - [ ] When MAR read for a tab it goes to the next tab that has posts. When clicking Undo, it does correctly Undo "somewhere". I would like to request ability to jump back to the tab where posts were Undo. It might not be necessarily the one prior to the one you're currently on.
+ - [ ] Add "Comment Navigator" to posts coming from Notifications
 
 FUTURE IDEAS / FEATURES
 =======================
@@ -62,3 +79,6 @@ FB WATCH
  - [ ] Redirect to a "clean" url after adding an item
  - [ ] Change the interval automatically - If new activity is found, check back more frequently
  - [ ] Update the Graph API version being used
+ - [ ] Explained here: https://www.facebook.com/groups/551488248212943/permalink/1339012749460485/?comment_id=1339118706116556&comment_tracking=%7B%22tn%22%3A%22R2%22%7D
+ - [ ] Add an additional column called "Age" or something along those lines. Premise is that with time discussions die down, so I would like to delete posts from Watch after let's say 20 days. Instead of going to each individual post to find out how old it is, I would to have this info in the grid.
+ - [ ] Allow refresh rate value to be preserved if modified from defaulted 300
