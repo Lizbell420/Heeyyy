@@ -16,9 +16,6 @@ FILTERING
 
 HIGH
 =========
- - [x] Disable Wrench under https://apps.facebook.com/*, which includes games.
- - [x] Tab list gets created in Pages/Groups even if no filters are moving posts to tabs
- - [x] Some Chrome users get storage errors
  - [ ] When users have a gray icon next to their name (when not in a group, for example) the code for the icon is included in the tab name - https://www.facebook.com/groups/SocialFixerUserSupport/permalink/1074831415919072/
 
 MEDIUM
@@ -26,14 +23,12 @@ MEDIUM
  - [ ] PAI's should be shown on single posts
  - [ ] Make the Options searchable
  - [ ] Add an option to make the wrench/control panel not draggable
- - [x] Add an option to restore the position of the control panel
  - [ ] The Display Tweak "Force Chat Popup To Default Colors" should also include: ._1nc6 ._d97 {background-color:#4080ff !important;}
 
 LOW
 =========
  - [ ] Post action icons don't appear on posts that get added under the cursor. The mouse needs to be moved out of the post and then back in for them to appear.
  - [ ] Add a separate option to show the filter icon / wrench icon, separate from the "Mark As Read" functionality
- - [x] Add an option to pre-populate the filter tab list based on all defined filters
  - [ ] The control panel is partially hidden by the white strip at the top of Pages
  - [ ] Add content to the "About" tab
  - [ ] Allow users to define which groups/pages not to filter even if it's turned on
@@ -53,8 +48,6 @@ TECHNICAL
  - [ ] If no posts are ever hidden/tabbed from filters or being marked read, don't throttle the post loading, because it will never run forever
  - [ ] When navigating, all posts marked as read get shown before page transition - only when clicking an item in notifications?
  - [ ] Add a debugger/page inspector option to allow users to report HTML structure
- - [x] Can I force news feed containers to never hide and height:auto or will that break Facebook's feed hiding algorithm?
- - [x] Add padding to the browser/sfx version box in the Support Tab
  - [ ] Minify Zepto
  - [ ] Figure out why injecting X into the page context breaks buttons on the "settings" page
  - [ ] Move "anonymizer" config to the server as a JSON configuration
@@ -66,7 +59,6 @@ TECHNICAL
 FB WATCH
 ==========
  - [ ] Add more logging/debugging info
- - [x] Add a login button if the popup doesn't get triggered automatically
  - [ ] Redirect to a "clean" url after adding an item
  - [ ] Change the interval automatically - If new activity is found, check back more frequently
  - [ ] Update the Graph API version being used
