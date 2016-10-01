@@ -9,14 +9,18 @@ FILTERING
  - [ ] New action: "Hide Selector"
  - [ ] Add some way to alert users of new subscription filters and tweaks
  - [ ] Filter by post privacy level
- - [ ] Detect and warn about regex filters with a trailing |
+ - [ ] Detect and warn about regex filters with a starting or trailing or double |
  - [ ] New action: "Apply Style" with a pre-defined list of styles that can be applied, like "Red Outline"
  - [ ] Add a "Filter Posts Like This" option to the filter drop-down to help get quickly started on a filter
  - [ ] If a filter condition contains App or Author, add an item in the filter PAI to "add <author> to filter <x>" to easily add people to existing filters
+ - [ ] Clone filters
 
 HIGH
 =========
  - [ ] When users have a gray icon next to their name (when not in a group, for example) the code for the icon is included in the tab name - https://www.facebook.com/groups/SocialFixerUserSupport/permalink/1074831415919072/
+ - [ ] Make it optional to disable on games/apps pages
+ - [ ] For some users, SFX doesn't "kick in" without a reload or two. Some environments may be running SFX too early.
+ - [ ] Use Chrome storage API to sync options changes between tabs
 
 MEDIUM
 =========
@@ -50,6 +54,7 @@ UNPRIORITIZED
  - [ ] KB shortcut for "mark as read"
  - [ ] When MAR read for a tab it goes to the next tab that has posts. When clicking Undo, it does correctly Undo "somewhere". I would like to request ability to jump back to the tab where posts were Undo. It might not be necessarily the one prior to the one you're currently on.
  - [ ] Add "Comment Navigator" to posts coming from Notifications
+ - [ ] Anonymize single posts
 
 FUTURE IDEAS / FEATURES
 =======================
@@ -57,6 +62,9 @@ FUTURE IDEAS / FEATURES
  - [ ] Enlarge photos when hovering
  - [ ] "Timeout" feature for a friend, to hide their posts for a certain amount of time and be reminded to add them back
  - [ ] Configurable keyboard shortcuts
+ - [ ] Remove info cards when hovering over profile links
+ - [ ] Sort Friends by name in profiles
+
   
 TECHNICAL
 =========
@@ -70,7 +78,6 @@ TECHNICAL
  - [ ] Performance: Only call extract() on posts for data parts that actually have filters defined for them
  - [ ] Internal: Connect Facebook's Arbiter to X.publish() to listen to all their messages and take action
  - [ ] Switch to Vue 2.0 with pre-compiled templates
- - [ ] Update config*.json on the server to alert users of old versions about v15
 
 FB WATCH
 ==========
