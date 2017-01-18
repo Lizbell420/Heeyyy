@@ -52,7 +52,7 @@ Decide what action(s) to take to posts that match the IF conditions.
  - **Hide Post** : Remove the post from the news feed
    - **Show Message** : If you want to be aware of which posts are hidden, enable this checkbox to make a small note appear where the post would have been. This note is clickable to view the post that was hidden.
  - **Add CSS** : Enter css rules to apply to the post container DIV. Because of Facebook's complex CSS, figuring out effective CSS can be difficult. A good place to start is outline. ex: "outline 2px solid orange;"
-   - **o Selector** : Instead of applying the CSS to the post container, find a DOM node within the post and apply the CSS to that node instead. Ex: Highlight just the timestamp of posts that are older than 1 week
+   - **To Selector** : Instead of applying the CSS to the post container, find a DOM node within the post and apply the CSS to that node instead. Ex: Highlight just the timestamp of posts that are older than 1 week
  - **Add CSS Class** : Add a class name to the post container node. This has no effect on its own, but should be used in conjunction with a Display Tweak that defines the CSS that uses the class.
  - **Replace Text** : Change the actual text content. Example: Replace swear words with "!#$"
  - **Move post to tab** : Remove the post from the news feed and put it in a "tab". The tab will appear in the control panel box. Clicking the tab name will show all posts in that tab and hide the others.
